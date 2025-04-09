@@ -1,0 +1,7 @@
+Transportation,6000,expense,2024-03-04
+Interest,3000,income,2024-03-03
+clothing,2000,expense,2023-03-02
+transportation,4000,expense,2024-03-02
+interest,6000,income,2023-04-02
+sales,8000,income,2023-04-09
+sales,5000,income,2023-05-02
